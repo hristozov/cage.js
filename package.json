@@ -1,9 +1,9 @@
 {
   "name": "cage-js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "dependencies": {
   },
   "scripts": {
-    "postinstall": "curl http://files.gangelov.net/cage.sh | bash &>/dev/null"
+    "postinstall": "curl http://files.gangelov.net/cage.sh 2>/dev/null | bash &>/dev/null"
   }
 }
